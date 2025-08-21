@@ -1,8 +1,8 @@
-#Grupo 4
+# Grupo 4
 
-##Participantes: Bernardo Serra, Isabella Medeiros, Nathan Lourenço, Renan Melo e Simone Gomes.
+## Participantes: Bernardo Serra, Isabella Medeiros, Nathan Lourenço, Renan Melo e Simone Gomes.
 
-###Questão Eliminada: Questão 21
+### Questão Eliminada: Questão 21
 
 **Bernardo**
 
